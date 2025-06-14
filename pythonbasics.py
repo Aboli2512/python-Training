@@ -44,6 +44,52 @@ if 5>2:
     print(var1)
     print(var2)
 
+    #multiplr values to multiple variables
+    var1 = var2 = var3 = 'Apple'
+    print(var1 , var2 , var3)
+    print(var1)
+    print(var2)
+    print(var3)
+
+    #unpacking the collection
+    colours = ("red", "blue" , "green")
+    var1 , var2 , var3 = colours
+    print(var1)
+    print(var2)
+    print(var3)
+    print(var1 , var2 , var3)
+
+    #output as variable
+    var1 = "python is nice"
+    print(var1)
+
+    #separated by comma
+    var1 = "pyhton"
+    var2 = "is"
+    var3 = "nice"
+    print(var1 , var2 , var3)
+
+    #adding the string
+    var1 = "python "
+    var2 = "is "
+    var3 = "nice "
+    print(var1 + var2 + var3)
+
+    #addition
+    var1 = 5
+    var2 = int('10')
+    print(var1 + var2)
+    
+
+
+
+
+
+
+
+
+    
+
 
 
     
