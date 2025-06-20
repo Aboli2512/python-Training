@@ -26,3 +26,11 @@ y = bytearray(5)
 z = memoryview(bytes(5))
 print(x, y, z)
 print(type(x), type(y), type(z))
+
+# input fuction
+
+a = int(input('enter vale of a'))
+b = int(input('enter value of b'))
+print('number ia a', a)
+print( 'number is b', b)
+print( 'sum is' , a + b)
