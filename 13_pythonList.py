@@ -39,7 +39,8 @@ newList1 = ['my', 'name', 'is', 'saanvi', 'and', 'is', 'my', 'maasi']
 newList2 = ['my', 'name', 'is', 'saanvi', 'and', 'aboli', 'is', 'my', 'maasi']
 #append command -  newList1.append(newList2)
 #                  print(newList1)
-print(newList1.append('aboli'))
+newList1.append('aboli')
+print(newList1)
 
 newList1.extend(newList2)
 print(newList1)
