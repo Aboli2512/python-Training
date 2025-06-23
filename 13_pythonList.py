@@ -13,6 +13,7 @@
 
 newString = "my name is saanvi"
 print(newString[0])
+print(newString[2:5])
 
 newList = ['my', 'name', 'is', 'saanvi', 'i', 'studies', 'python']
 print(newList[0])
@@ -33,6 +34,7 @@ print(newListLength)
 a = ('my', 'name', 'is', 'saanvi', 'i', 'studies', 'python')
 aList = list(a)
 print(type(a), type(aList))
+print(a,aList )
 
 # Diffrenece between append and extend
 newList1 = ['my', 'name', 'is', 'saanvi', 'and', 'is', 'my', 'maasi']
