@@ -51,11 +51,11 @@
 #                        Gender = 'Female')
 # print(userName)
 
-def abc(*args):
-    myTuple = args
-    endValue = myTuple[0]
-    print(endValue)
-abc(1, 2, 3)
+# def abc(*args):
+#     myTuple = args
+#     endValue = myTuple[0]
+#     print(endValue)
+# abc(1, 2, 3)
 
 # Recursion is a common mathematical and programming concept. 
 # It means that a function calls itself. 
