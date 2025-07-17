@@ -4,9 +4,12 @@
 #any list typle set and dict are true, except empty ones
 
 #boolean false values
-print(bool(False))
-print(bool(None))
-print(bool(""))
-print(bool(()))
-print(bool([]))
-print(bool({}))
+# print(bool(False))
+# print(bool(None))
+# print(bool(""))
+# print(bool(()))
+# print(bool([]))
+# print(bool({}))
+
+
+
